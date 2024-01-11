@@ -16,4 +16,9 @@ public class KataTest {
     public void shouldReturn1WhenGiven1() {
         assertEquals("1", fizzbuzz.convert(1));
     }
+
+    @Test
+    public void shouldReturn2WhenGiven2() {
+        assertEquals("2", fizzbuzz.convert(2));
+    }
 }
