@@ -14,6 +14,9 @@ Please run `mvn install` to install dojo dependencies (JUnit) and start working.
 Preferred IDE is IntelliJ Idea.
 
 ## FizzBuzz
+
+From https://codingdojo.org/kata/FizzBuzz/
+
 ### About this Kata
 This Kata was posted here by someone anonymously. Michael Feathers and EmilyBache performed it at agile2008 when competing in “Programming with the stars” in python, in 4 minutes.
 
